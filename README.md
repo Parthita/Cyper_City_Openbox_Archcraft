@@ -8,7 +8,9 @@ yay -S candy-icons-git
 
 ```
 Theme Name : Cyber City
+
 Based On : Archcraft Beach Them 
+
 WM : Openbox
 
 

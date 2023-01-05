@@ -1,6 +1,12 @@
 # Cyper_City_Openbox_Archcraft
 
+<h4>ICONS!!!!!!</h4>
+Install the candy icons 
 
+```
+yay -S candy-icons-git 
+
+```
 Theme Name : Cyber City
 Based On : Archcraft Beach Them 
 WM : Openbox
